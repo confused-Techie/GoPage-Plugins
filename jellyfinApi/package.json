@@ -1,0 +1,22 @@
+{
+  "name": "jellyfinApi",
+  "friendlyName": "Jellyfin API",
+  "version": "0.1",
+  "description": "Get infromation about your Jellyfin Instance.",
+  "type": "item",
+  "author": "confused-Techie",
+  "license": "GPL-3.0",
+  "infoLink": "https://github.com/confused-Techie/GoPage-Plugins",
+  "downloadLink": "https://github.com/confused-Techie/GoPage-Plugins/releases/download/JellyfinAPIV0.1/JellyfinAPIV0.1.zip",
+  "installed": false,
+  "config": true,
+  "mainDir": "/jellyfinApi/",
+  "main": "main.js",
+  "options": {
+    "explain": "temp",
+    "autofill": "url=http://your-server:port;apiKey=yourKey;"
+  },
+  "icon": {
+    "available": false
+  }
+}
