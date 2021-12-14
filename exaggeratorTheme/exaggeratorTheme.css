@@ -1,0 +1,56 @@
+/* Exaggerator Theme, Just Colourful!
+Changing the Superficial feel of GoPage, adding its current Revision*/
+
+/* Revision: 0.1 */
+
+:root {
+  /* Universal Items */
+  --back-drop-colour: white; /* tmp */
+  --body-text-colour: black;
+
+  --link-text-colour: yellow;
+
+  --heading-back-drop-colour: #34f7c0;
+  --heading-text-colour: black;
+  --heading-hr-border: hidden;
+
+  --footer-border-top: hidden;
+  --footer-back-drop-colour: green;
+  --footer-text-colour: black;
+
+  /* Common Elements */
+  --card-back-drop-colour: cyan;
+
+  --create-action-back-drop-colour: yellow;
+  --create-action-text-colour: black;
+
+  --confirm-action-back-drop-colour: orange;
+  --confirm-action-text-colour: black;
+
+  --undo-action-back-drop-colour: orange;
+  --undo-action-text-colour: black;
+
+  --destroy-action-back-drop-colour: orange;
+  --destroy-action-text-colour: black;
+
+  --modal-back-drop-colour: red;
+
+  --error-ation-back-drop-colour: red;
+
+  /* HomePage */
+  --category-selector-back-drop-colour: yellow;
+  --category-selector-text-colour: black;
+
+  --category-selector-button-back-drop: inherit;
+  --category-selector-button-text: inherit;
+  --category-selector-button-hover-bc: ivory;
+  --category-selector-button-active-bc: brown;
+
+  /* Settings */
+  --settings-seperator-border-bottom: hidden;
+
+  /* EditPage / NewItem */
+  --form-back-drop-colour: white; /* temp */
+  --form-text-colour: black;
+  --form-example-colour: black;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "exaggeratorTheme",
+  "friendlyName": "Exaggerator Theme",
+  "version": "0.1",
+  "description": "Exaggerator Theme... Just Colourful.",
+  "type": "theme",
+  "author": "confused-Techie, 'Mrs. Fancy Pants'",
+  "license": "GPL-3.0",
+  "infoLink": "https://github.com/confused-Techie/GoPage-Plugins",
+  "downloadLink": "https://github.com/confused-Techie/GoPage-Plugins/releases/download/ExageratorThemeV0.1/ExageratorThemeV0.1.zip",
+  "installed": false,
+  "config": false,
+  "mainDir": "/exaggeratorTheme/",
+  "main": "exaggeratorTheme.css",
+  "options": {
+    "explain": "",
+    "autofill": ""
+  },
+  "icon": {
+    "available": true,
+    "type": "image",
+    "src": "/assets/images/pen-tool.svg",
+    "style": "",
+    "symbol": ""
+  }
+}

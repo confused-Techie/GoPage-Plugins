@@ -1,0 +1,26 @@
+{
+  "name": "lightTheme",
+  "friendlyName": "Light Theme",
+  "version": "0.1",
+  "description": "Simple Light Theme of those not loving the Dark Theme.",
+  "type": "theme",
+  "author": "confused-Techie",
+  "license": "GPL-3.0",
+  "infoLink": "https://github.com/confused-Techie/GoPage-Plugins",
+  "downloadLink": "https://github.com/confused-Techie/GoPage-Plugins/releases/download/LightThemeV0.1/LightThemeV0.1.zip",
+  "installed": false,
+  "config": false,
+  "mainDir": "/lightTheme/",
+  "main": "lightTheme.css",
+  "options": {
+    "explain": "",
+    "autofill": ""
+  },
+  "icon": {
+    "available": true,
+    "type": "image",
+    "src": "/assets/images/pen-tool.svg",
+    "style": "",
+    "symbol": ""
+  }
+}

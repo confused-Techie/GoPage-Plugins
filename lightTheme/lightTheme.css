@@ -1,0 +1,56 @@
+/* Simple Light Theme style
+Changing the Superficial feel of GoPage, adding its current Revision*/
+
+/* Revision: 0.1 */
+
+:root {
+  /* Universal Items */
+  --back-drop-colour: ivory;
+  --body-text-colour: black;
+
+  --link-text-colour: default;
+
+  --heading-back-drop-colour: #19191a;
+  --heading-text-colour: white;
+  --heading-hr-border: 2px solid black;
+
+  --footer-border-top: 2px solid black;
+  --footer-back-drop-colour: #19191a;
+  --footer-text-colour: white;
+
+  /* Common Elements */
+  --card-back-drop-colour: #ededed;
+
+  --create-action-back-drop-colour: #661294;
+  --create-action-text-colour: white;
+
+  --confirm-action-back-drop-colour: #007523;
+  --confirm-action-text-colour: white;
+
+  --undo-action-back-drop-colour: #261499;
+  --undo-action-text-colour: white;
+
+  --destroy-action-back-drop-colour: #b01919;
+  --destroy-action-text-colour: white;
+
+  --modal-back-drop-colour: #b8b8b8;
+
+  --error-ation-back-drop-colour: #b01919;
+
+  /* HomePage */
+  --category-selector-back-drop-colour: #ededed;
+  --category-selector-text-colour: black;
+
+  --category-selector-button-back-drop: inherit;
+  --category-selector-button-text: inherit;
+  --category-selector-button-hover-bc: #dbdbdb;
+  --category-selector-button-active-bc: #bfbfbf;
+
+  /* Settings */
+  --settings-seperator-border-bottom: 2px solid black;
+
+  /* EditPage / NewItem */
+  --form-back-drop-colour: ivory;
+  --form-text-colour: black;
+  --form-example-colour: gray;
+}
