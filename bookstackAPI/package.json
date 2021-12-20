@@ -1,0 +1,22 @@
+{
+  "name": "bookstackAPI",
+  "friendlyName": "BookStack API",
+  "version": "0.1",
+  "description": "Gather some stats about your BookStack Instance.",
+  "type": "item",
+  "author": "confused-Techie",
+  "license": "GPL-3.0",
+  "infoLink": "https://github.com/confused-Techie/GoPage-Plugins",
+  "downloadLink": "",
+  "installed": true,
+  "config": true,
+  "mainDir": "/bookstackAPI/",
+  "main": "main.js",
+  "options": {
+    "explain": "",
+    "autofill": "token_id=ID;token_secret=SECRET;"
+  },
+  "icon": {
+    "avaialble": false
+  }
+}
