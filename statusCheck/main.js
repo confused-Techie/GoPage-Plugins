@@ -42,6 +42,7 @@ function statusCheckLogic(url, config) {
     try {
       // Here we will let the available status codes be an easily accessed index
       // while accounting for the possiblity of this being blank and reverting to default.
+      var disableSecurity = config.disableSecurity ? config.disableSecurity : false;
       var acceptedStatusCode = [ 200 ];
       var tempAcceptedStatusCode = config.statusCodes ? config.statusCodes : [ 200 ];
       // But we can't stop here. Since this data is a string, this leaves it as a string. Making indexOf return partial matches.
@@ -58,17 +59,30 @@ function statusCheckLogic(url, config) {
         acceptedStatusCode.push(eleInt);
       });
 
+      if (!disableSecurity) {
       fetch(`/api/ping?url=${url}`)
         .then(response => response.json())
         .then(data => {
           // This lets the user per item define acceptible status codes.
           if (acceptedStatusCode.indexOf(data) != -1) {
-            resolve(`<span style="height: 25px; width: 25px; border-radius: 50%; display: inline-block; background-color: green; cursor: pointer;">&#10004;</span>`);
+            resolve(`<span style="height: 25px; width: 25px; border-radius: 50%; display: inline-block; background-color: green; cursor: pointer;" title="Status Code: ${data}">&#10004;</span>`);
 
           } else {
-            resolve(`<span style="height: 25px; width: 25px; border-radius: 50%; display: inline-block; background-color: red; cursor: pointer">&#10006</span>`);
+            resolve(`<span style="height: 25px; width: 25px; border-radius: 50%; display: inline-block; background-color: red; cursor: pointer" title="Status Code: ${data}">&#10006</span>`);
           }
         });
+      } else {
+        fetch(`/api/ping/nossl?url=${url}`)
+          .then(response => response.json())
+          .then(data => {
+            if (acceptedStatusCode.indexOf(data) != -1) {
+              resolve(`<span style="height: 25px; width: 25px; border-radius: 50%; display: inline-block; background-color: green; cursor: pointer;" title="Status Code: ${data} - Ignoring Security">&#10004;</span>`);
+
+            } else {
+              resolve(`<span style="height: 25px; width: 25px; border-radius: 50%; display: inline-block; background-color: red; cursor: pointer" title="Status Code: ${data} - Ignoring Security">&#10006</span>`);
+            }
+          });
+      }
     } catch(err) {
       reject(err);
     }
@@ -77,7 +91,7 @@ function statusCheckLogic(url, config) {
 
 // This below will ensure after the first time run to run again after the updateTime,
 // Then within refreshFunc it asks it to refresh again after the updateTime
-// Ensuring every 5 minutes this is updated 
+// Ensuring every 5 minutes this is updated
 var refreshFunc = function() {
   apiInit();
   setTimeout(refreshFunc, updateFrequency);
