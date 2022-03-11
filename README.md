@@ -19,7 +19,7 @@ Simple way to see if the address is currently reachable.
 
 Get Air Quality Information at a glance. Via AirNow.gov.
 
-`Version: 0.1`
+`Version: 0.2`
 `Type: Header`
 
 ### Features

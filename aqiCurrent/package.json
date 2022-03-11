@@ -1,13 +1,13 @@
 {
   "name": "aqiCurrent",
   "friendlyName": "AQI Current",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Get Air Quality Information at a glance. Via AirNow.gov",
   "type": "header",
   "author": "confused-Techie",
   "license": "GPL-3.0",
   "infoLink": "https://github.com/confused-Techie/GoPage-Plugins",
-  "downloadLink": "https://github.com/confused-Techie/GoPage-Plugins/releases/download/AQICurrentV0.1/AQICurrentV0.1.zip",
+  "downloadLink": "https://github.com/confused-Techie/GoPage-Plugins/releases/download/AQICurrentV0.2/AQICurrentV0.2.zip",
   "installed": false,
   "config": true,
   "mainDir": "/aqiCurrent/",
@@ -17,8 +17,6 @@
     "autofill": "zipcode=XXX;apikey=XXX-XXX-XXX-XXXX"
   },
   "icon": {
-    "available": true,
-    "type": "image",
-    "src": "https://www.airnow.gov/sites/default/files/download-images/aqi-logos/aqi_ex1.jpg"
+    "available": false
   }
 }
