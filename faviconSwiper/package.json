@@ -2,7 +2,7 @@
   "name": "faviconSwiper",
   "friendlyName": "Favicon Swiper",
   "version": "0.2",
-  "description": "Retreive Favicons via known methods or Google APIs as a fallback.",
+  "description": "Retrieve Favicons via known methods or Google APIs as a fallback.",
   "type": "item",
   "author": "confused-Techie",
   "license": "GPL-3.0",

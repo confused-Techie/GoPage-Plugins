@@ -15,7 +15,7 @@ async function init() {
         // now this will receive the AQI object
         // and we will generate colours based on the air quality.
         var qualityColour = generateColour(res.Category.Number);
-        var crafterHTML = `<div style="border-radius: 4px; padding: 5px; margin: 10px; background-color: ${qualityColour};">
+        var crafterHTML = `<div style="border-radius: 4px; padding: 5px; margin: 10px; background-color: ${qualityColour.background}; color: ${qualityColour.text};">
                               AQI ${res.AQI} - ${res.Category.Name} in ${res.ReportingArea}, ${res.StateCode}
                             </div>`;
 
@@ -48,19 +48,19 @@ function mainLogic(options) {
 
 function generateColour(category) {
   if (category == 1) {
-    return "#00e400";
+    return { background: "#00e400", text: "black" };
   } else if (category == 2) {
-    return "#ffff00";
+    return { background: "#ffff00", text: "black" };
   } else if (category == 3) {
-    return "#ff7e00";
+    return { background: "#ff7e00", text: "black" };
   } else if (category == 4) {
-    return "#ff0000";
+    return { background: "#ff0000", text: "black" };
   } else if (category == 5) {
-    return "#8f3f97";
+    return { background: "#8f3f97", text: "white" };
   } else if (category == 6) {
-    return "#7e0023";
+    return { background: "#7e0023", text: "white" };
   } else {
-    return "black";
+    return { background: "black", text: "white" };
   }
 }
 
