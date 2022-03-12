@@ -15,6 +15,26 @@ Simple way to see if the address is currently reachable.
 * Has per Item configuration as to what Status Codes are acceptable to consider as online.
 * Configuration option available to Ignore Security on a per Item basis, allowing checks against items with improper certificates configured.
 
+## Self Hosted Icons
+
+Get self Hosted High Quality Icons alongside their links. (All Rights to Image Owners)
+
+`Version: 0.1`
+`Type: Item`
+
+### Features
+
+### Icon Definitions
+
+| Service | Icon Name |
+| --- | --- |
+| Jellyfin | jellyfin |
+| BookStack | bookstack |
+| Pi-hole | pihole |
+| FreeNas | freenas |
+| Omada Controller | omada |
+| OpnSense | opnsense |
+
 ## AQI Current
 
 Get Air Quality Information at a glance. Via AirNow.gov.
