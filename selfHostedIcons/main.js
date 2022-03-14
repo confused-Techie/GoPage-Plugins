@@ -60,6 +60,24 @@ function mainLogic(options) {
         "iconIdentifier": "opnsense",
         "iconText": "OpnSense",
         "iconAlt": "OpnSense Brand Icon"
+      },
+      {
+        "iconLocation": "icons/adguard/icon.png",
+        "iconIdentifier": "adguard",
+        "iconText": "AdGuard: Network-wide ads & trackers blocking DNS server.",
+        "iconAlt": "AdGuard Brand Icon"
+      },
+      {
+        "iconLocation": "icons/plex/icon.png",
+        "iconIdentifier": "plex",
+        "iconText": "Plex: Media Server that allows you to aggregate all your personal media and access it anywhere you go.",
+        "iconAlt": "Plex Media Server Brand Icon"
+      },
+      {
+        "iconLocation": "icons/portainer/icon.png",
+        "iconIdentifier": "portainer",
+        "iconText": "Portainer: Simple Management solution for Docker.",
+        "iconAlt": "Portainer Brand Icon"
       }
     ];
 
