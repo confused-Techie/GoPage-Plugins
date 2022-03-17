@@ -31,7 +31,7 @@ async function run(rawArguments) {
       console.log(err);
     }
   });
-
+  console.log(`${locArray.length} Icons found.`);
   console.log('File Updated.');
 
 }
