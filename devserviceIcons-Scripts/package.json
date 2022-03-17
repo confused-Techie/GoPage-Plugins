@@ -1,0 +1,14 @@
+{
+  "name": "deviconScrapper",
+  "version": "1.0.0",
+  "description": "Scrapper for GoPage Plugin: Dev Service Icons. With Devicons as source.",
+  "main": "bin/deviconscrapper.js",
+  "bin": {
+    "deviconscrap": "bin/deviconscrapper.js"
+  },
+  "author": "confused-Techie",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
