@@ -5,12 +5,15 @@ async function init() {
 
   var elements = pluginAPI.ReturnItems('devserviceIcons');
 
+  var data = getJSON();
+
   for (var i = 0; i < elements.length; i++) {
     var rawOptions = elements[i].getAttribute('data-options');
 
     var parseOptions = pluginAPI.ParseConfig(rawOptions);
 
-    await mainLogic(parseOptions)
+
+    await mainLogic(parseOptions, data)
       .then(res => {
         elements[i].innerHTML = res;
       })
@@ -20,40 +23,8 @@ async function init() {
   }
 }
 
-function mainLogic(options) {
+function mainLogic(options, iconsArray) {
   return new Promise(function (resolve, reject) {
-    var iconsArray = [
-      {
-        "loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg",
-        "id": "android-original",
-        "alt": "Android Icon"
-      },
-      {
-        "loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg",
-        "id": "android-original-wordmark",
-        "alt": "Android Icon"
-      },
-      {
-        "loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg",
-        "id": "android-plain",
-        "alt": "Android Icon"
-      },
-      {
-        "loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg",
-        "id": "android-plain-wordmark",
-        "alt": "Android Icon"
-      },
-      {
-        "loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
-        "id": "github-original",
-        "alt": "Github Icon"
-      },
-      {
-        "loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg",
-        "id": "github-original-wordmark",
-        "alt": "Github Icon"
-      }
-    ];
 
     var imageOption = options.icon;
 
@@ -64,4 +35,16 @@ function mainLogic(options) {
     }
     reject('☹');
   });
+}
+
+function getJSON() {
+  fetch("/pluins/devserviceIcons/devservices.json")
+    .then(response => response.json())
+    .then((data) => {
+      return data;
+    })
+    .catch((err) => {
+      console.log(err);
+      return null;
+    });
 }

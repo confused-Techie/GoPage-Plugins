@@ -1,0 +1,3372 @@
+[
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg",
+		"id": "adonisjs-original",
+		"alt": "adonisjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original-wordmark.svg",
+		"id": "adonisjs-original-wordmark",
+		"alt": "adonisjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg",
+		"id": "aftereffects-original",
+		"alt": "aftereffects"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg",
+		"id": "aftereffects-plain",
+		"alt": "aftereffects"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg",
+		"id": "amazonwebservices-original",
+		"alt": "amazonwebservices"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+		"id": "amazonwebservices-original-wordmark",
+		"alt": "amazonwebservices"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg",
+		"id": "amazonwebservices-plain-wordmark",
+		"alt": "amazonwebservices"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg",
+		"id": "android-original",
+		"alt": "android"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg",
+		"id": "android-original-wordmark",
+		"alt": "android"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg",
+		"id": "android-plain",
+		"alt": "android"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg",
+		"id": "android-plain-wordmark",
+		"alt": "android"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg",
+		"id": "aarch64-original",
+		"alt": "aarch64"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-plain.svg",
+		"id": "aarch64-plain",
+		"alt": "aarch64"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg",
+		"id": "angularjs-original",
+		"alt": "angularjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg",
+		"id": "angularjs-original-wordmark",
+		"alt": "angularjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg",
+		"id": "angularjs-plain",
+		"alt": "angularjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg",
+		"id": "angularjs-plain-wordmark",
+		"alt": "angularjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg",
+		"id": "apache-original",
+		"alt": "apache"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg",
+		"id": "apache-original-wordmark",
+		"alt": "apache"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain.svg",
+		"id": "apache-plain",
+		"alt": "apache"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg",
+		"id": "apache-plain-wordmark",
+		"alt": "apache"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line.svg",
+		"id": "apache-line",
+		"alt": "apache"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg",
+		"id": "apache-line-wordmark",
+		"alt": "apache"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg",
+		"id": "apachekafka-original",
+		"alt": "apachekafka"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg",
+		"id": "apachekafka-original-wordmark",
+		"alt": "apachekafka"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appcelerator/appcelerator-original.svg",
+		"id": "appcelerator-original",
+		"alt": "appcelerator"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appcelerator/appcelerator-original-wordmark.svg",
+		"id": "appcelerator-original-wordmark",
+		"alt": "appcelerator"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appcelerator/appcelerator-plain-wordmark.svg",
+		"id": "appcelerator-plain-wordmark",
+		"alt": "appcelerator"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg",
+		"id": "apple-original",
+		"alt": "apple"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg",
+		"id": "appwrite-original",
+		"alt": "appwrite"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original-wordmark.svg",
+		"id": "appwrite-original-wordmark",
+		"alt": "appwrite"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-plain.svg",
+		"id": "appwrite-plain",
+		"alt": "appwrite"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-plain-wordmark.svg",
+		"id": "appwrite-plain-wordmark",
+		"alt": "appwrite"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg",
+		"id": "arduino-original",
+		"alt": "arduino"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg",
+		"id": "arduino-original-wordmark",
+		"alt": "arduino"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain.svg",
+		"id": "arduino-plain",
+		"alt": "arduino"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg",
+		"id": "arduino-plain-wordmark",
+		"alt": "arduino"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg",
+		"id": "atom-original",
+		"alt": "atom"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg",
+		"id": "atom-original-wordmark",
+		"alt": "atom"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg",
+		"id": "azure-original",
+		"alt": "azure"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg",
+		"id": "azure-original-wordmark",
+		"alt": "azure"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg",
+		"id": "azure-plain",
+		"alt": "azure"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain-wordmark.svg",
+		"id": "azure-plain-wordmark",
+		"alt": "azure"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg",
+		"id": "babel-original",
+		"alt": "babel"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-plain.svg",
+		"id": "babel-plain",
+		"alt": "babel"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/backbonejs/backbonejs-original.svg",
+		"id": "backbonejs-original",
+		"alt": "backbonejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/backbonejs/backbonejs-original-wordmark.svg",
+		"id": "backbonejs-original-wordmark",
+		"alt": "backbonejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/backbonejs/backbonejs-plain.svg",
+		"id": "backbonejs-plain",
+		"alt": "backbonejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/backbonejs/backbonejs-plain-wordmark.svg",
+		"id": "backbonejs-plain-wordmark",
+		"alt": "backbonejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg",
+		"id": "bash-original",
+		"alt": "bash"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg",
+		"id": "bash-plain",
+		"alt": "bash"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg",
+		"id": "behance-original",
+		"alt": "behance"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original-wordmark.svg",
+		"id": "behance-original-wordmark",
+		"alt": "behance"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-plain.svg",
+		"id": "behance-plain",
+		"alt": "behance"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-plain-wordmark.svg",
+		"id": "behance-plain-wordmark",
+		"alt": "behance"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg",
+		"id": "bitbucket-original",
+		"alt": "bitbucket"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg",
+		"id": "bitbucket-original-wordmark",
+		"alt": "bitbucket"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+		"id": "bootstrap-original",
+		"alt": "bootstrap"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg",
+		"id": "bootstrap-plain",
+		"alt": "bootstrap"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg",
+		"id": "bootstrap-plain-wordmark",
+		"alt": "bootstrap"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg",
+		"id": "bulma-plain",
+		"alt": "bulma"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bower/bower-original.svg",
+		"id": "bower-original",
+		"alt": "bower"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bower/bower-original-wordmark.svg",
+		"id": "bower-original-wordmark",
+		"alt": "bower"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bower/bower-plain.svg",
+		"id": "bower-plain",
+		"alt": "bower"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bower/bower-plain-wordmark.svg",
+		"id": "bower-plain-wordmark",
+		"alt": "bower"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bower/bower-line.svg",
+		"id": "bower-line",
+		"alt": "bower"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bower/bower-line-wordmark.svg",
+		"id": "bower-line-wordmark",
+		"alt": "bower"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg",
+		"id": "c-original",
+		"alt": "c"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg",
+		"id": "c-plain",
+		"alt": "c"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg",
+		"id": "c-line",
+		"alt": "c"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg",
+		"id": "cakephp-original",
+		"alt": "cakephp"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original-wordmark.svg",
+		"id": "cakephp-original-wordmark",
+		"alt": "cakephp"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-plain.svg",
+		"id": "cakephp-plain",
+		"alt": "cakephp"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-plain-wordmark.svg",
+		"id": "cakephp-plain-wordmark",
+		"alt": "cakephp"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg",
+		"id": "canva-original",
+		"alt": "canva"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg",
+		"id": "centos-original",
+		"alt": "centos"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg",
+		"id": "centos-original-wordmark",
+		"alt": "centos"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-plain.svg",
+		"id": "centos-plain",
+		"alt": "centos"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-plain-wordmark.svg",
+		"id": "centos-plain-wordmark",
+		"alt": "centos"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ceylon/ceylon-original.svg",
+		"id": "ceylon-original",
+		"alt": "ceylon"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ceylon/ceylon-original-wordmark.svg",
+		"id": "ceylon-original-wordmark",
+		"alt": "ceylon"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ceylon/ceylon-plain.svg",
+		"id": "ceylon-plain",
+		"alt": "ceylon"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ceylon/ceylon-plain-wordmark.svg",
+		"id": "ceylon-plain-wordmark",
+		"alt": "ceylon"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg",
+		"id": "chrome-original",
+		"alt": "chrome"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg",
+		"id": "chrome-original-wordmark",
+		"alt": "chrome"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg",
+		"id": "chrome-plain",
+		"alt": "chrome"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain-wordmark.svg",
+		"id": "chrome-plain-wordmark",
+		"alt": "chrome"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg",
+		"id": "circleci-plain",
+		"alt": "circleci"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg",
+		"id": "circleci-plain-wordmark",
+		"alt": "circleci"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg",
+		"id": "clojure-original",
+		"alt": "clojure"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-line.svg",
+		"id": "clojure-line",
+		"alt": "clojure"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojurescript/clojurescript-original.svg",
+		"id": "clojurescript-original",
+		"alt": "clojurescript"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojurescript/clojurescript-plain.svg",
+		"id": "clojurescript-plain",
+		"alt": "clojurescript"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg",
+		"id": "codecov-plain",
+		"alt": "codecov"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg",
+		"id": "codeigniter-plain",
+		"alt": "codeigniter"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg",
+		"id": "codeigniter-plain-wordmark",
+		"alt": "codeigniter"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg",
+		"id": "codepen-plain",
+		"alt": "codepen"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg",
+		"id": "codepen-original-wordmark",
+		"alt": "codepen"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg",
+		"id": "coffeescript-original",
+		"alt": "coffeescript"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original-wordmark.svg",
+		"id": "coffeescript-original-wordmark",
+		"alt": "coffeescript"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg",
+		"id": "composer-original",
+		"alt": "composer"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-line.svg",
+		"id": "composer-line",
+		"alt": "composer"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-line-wordmark.svg",
+		"id": "composer-line-wordmark",
+		"alt": "composer"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg",
+		"id": "confluence-original",
+		"alt": "confluence"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg",
+		"id": "confluence-original-wordmark",
+		"alt": "confluence"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg",
+		"id": "couchdb-original",
+		"alt": "couchdb"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original-wordmark.svg",
+		"id": "couchdb-original-wordmark",
+		"alt": "couchdb"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-plain.svg",
+		"id": "couchdb-plain",
+		"alt": "couchdb"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-plain-wordmark.svg",
+		"id": "couchdb-plain-wordmark",
+		"alt": "couchdb"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
+		"id": "cplusplus-original",
+		"alt": "cplusplus"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg",
+		"id": "cplusplus-plain",
+		"alt": "cplusplus"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg",
+		"id": "cplusplus-line",
+		"alt": "cplusplus"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg",
+		"id": "csharp-original",
+		"alt": "csharp"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg",
+		"id": "csharp-plain",
+		"alt": "csharp"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg",
+		"id": "csharp-line",
+		"alt": "csharp"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+		"id": "css3-original",
+		"alt": "css3"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg",
+		"id": "css3-original-wordmark",
+		"alt": "css3"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg",
+		"id": "css3-plain",
+		"alt": "css3"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg",
+		"id": "css3-plain-wordmark",
+		"alt": "css3"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg",
+		"id": "cucumber-plain",
+		"alt": "cucumber"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg",
+		"id": "cucumber-plain-wordmark",
+		"alt": "cucumber"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg",
+		"id": "crystal-original",
+		"alt": "crystal"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original-wordmark.svg",
+		"id": "crystal-original-wordmark",
+		"alt": "crystal"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg",
+		"id": "d3js-original",
+		"alt": "d3js"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-plain.svg",
+		"id": "d3js-plain",
+		"alt": "d3js"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg",
+		"id": "dart-original",
+		"alt": "dart"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg",
+		"id": "dart-original-wordmark",
+		"alt": "dart"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg",
+		"id": "dart-plain",
+		"alt": "dart"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg",
+		"id": "dart-plain-wordmark",
+		"alt": "dart"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg",
+		"id": "debian-original",
+		"alt": "debian"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg",
+		"id": "debian-original-wordmark",
+		"alt": "debian"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg",
+		"id": "debian-plain",
+		"alt": "debian"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg",
+		"id": "debian-plain-wordmark",
+		"alt": "debian"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg",
+		"id": "denojs-original",
+		"alt": "denojs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original-wordmark.svg",
+		"id": "denojs-original-wordmark",
+		"alt": "denojs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg",
+		"id": "devicon-original",
+		"alt": "devicon"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original-wordmark.svg",
+		"id": "devicon-original-wordmark",
+		"alt": "devicon"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-plain.svg",
+		"id": "devicon-plain",
+		"alt": "devicon"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-plain-wordmark.svg",
+		"id": "devicon-plain-wordmark",
+		"alt": "devicon"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-line.svg",
+		"id": "devicon-line",
+		"alt": "devicon"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-line-wordmark.svg",
+		"id": "devicon-line-wordmark",
+		"alt": "devicon"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg",
+		"id": "django-original",
+		"alt": "django"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg",
+		"id": "django-plain",
+		"alt": "django"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-line.svg",
+		"id": "django-line",
+		"alt": "django"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+		"id": "docker-original",
+		"alt": "docker"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg",
+		"id": "docker-original-wordmark",
+		"alt": "docker"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg",
+		"id": "docker-plain",
+		"alt": "docker"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg",
+		"id": "docker-plain-wordmark",
+		"alt": "docker"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg",
+		"id": "doctrine-original",
+		"alt": "doctrine"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original-wordmark.svg",
+		"id": "doctrine-original-wordmark",
+		"alt": "doctrine"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-plain.svg",
+		"id": "doctrine-plain",
+		"alt": "doctrine"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-plain-wordmark.svg",
+		"id": "doctrine-plain-wordmark",
+		"alt": "doctrine"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-line.svg",
+		"id": "doctrine-line",
+		"alt": "doctrine"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-line-wordmark.svg",
+		"id": "doctrine-line-wordmark",
+		"alt": "doctrine"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg",
+		"id": "dot-net-original",
+		"alt": "dot-net"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg",
+		"id": "dot-net-original-wordmark",
+		"alt": "dot-net"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg",
+		"id": "dot-net-plain",
+		"alt": "dot-net"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg",
+		"id": "dot-net-plain-wordmark",
+		"alt": "dot-net"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg",
+		"id": "dotnetcore-original",
+		"alt": "dotnetcore"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg",
+		"id": "dotnetcore-plain",
+		"alt": "dotnetcore"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg",
+		"id": "drupal-original",
+		"alt": "drupal"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original-wordmark.svg",
+		"id": "drupal-original-wordmark",
+		"alt": "drupal"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-plain.svg",
+		"id": "drupal-plain",
+		"alt": "drupal"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-plain-wordmark.svg",
+		"id": "drupal-plain-wordmark",
+		"alt": "drupal"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg",
+		"id": "digitalocean-original",
+		"alt": "digitalocean"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg",
+		"id": "digitalocean-original-wordmark",
+		"alt": "digitalocean"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-plain.svg",
+		"id": "digitalocean-plain",
+		"alt": "digitalocean"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-plain-wordmark.svg",
+		"id": "digitalocean-plain-wordmark",
+		"alt": "digitalocean"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg",
+		"id": "electron-original",
+		"alt": "electron"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original-wordmark.svg",
+		"id": "electron-original-wordmark",
+		"alt": "electron"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg",
+		"id": "eleventy-original",
+		"alt": "eleventy"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-plain.svg",
+		"id": "eleventy-plain",
+		"alt": "eleventy"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg",
+		"id": "elixir-original",
+		"alt": "elixir"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg",
+		"id": "elixir-original-wordmark",
+		"alt": "elixir"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-plain.svg",
+		"id": "elixir-plain",
+		"alt": "elixir"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-plain-wordmark.svg",
+		"id": "elixir-plain-wordmark",
+		"alt": "elixir"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg",
+		"id": "elm-original",
+		"alt": "elm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original-wordmark.svg",
+		"id": "elm-original-wordmark",
+		"alt": "elm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-plain.svg",
+		"id": "elm-plain",
+		"alt": "elm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-plain-wordmark.svg",
+		"id": "elm-plain-wordmark",
+		"alt": "elm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg",
+		"id": "ember-original-wordmark",
+		"alt": "ember"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg",
+		"id": "embeddedc-original",
+		"alt": "embeddedc"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg",
+		"id": "embeddedc-original-wordmark",
+		"alt": "embeddedc"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain.svg",
+		"id": "embeddedc-plain",
+		"alt": "embeddedc"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg",
+		"id": "embeddedc-plain-wordmark",
+		"alt": "embeddedc"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg",
+		"id": "erlang-original",
+		"alt": "erlang"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original-wordmark.svg",
+		"id": "erlang-original-wordmark",
+		"alt": "erlang"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain.svg",
+		"id": "erlang-plain",
+		"alt": "erlang"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain-wordmark.svg",
+		"id": "erlang-plain-wordmark",
+		"alt": "erlang"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+		"id": "express-original",
+		"alt": "express"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg",
+		"id": "express-original-wordmark",
+		"alt": "express"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg",
+		"id": "facebook-original",
+		"alt": "facebook"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg",
+		"id": "facebook-plain",
+		"alt": "facebook"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/feathersjs/feathersjs-original.svg",
+		"id": "feathersjs-original",
+		"alt": "feathersjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+		"id": "figma-original",
+		"alt": "figma"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg",
+		"id": "figma-plain",
+		"alt": "figma"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg",
+		"id": "filezilla-plain",
+		"alt": "filezilla"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg",
+		"id": "filezilla-plain-wordmark",
+		"alt": "filezilla"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+		"id": "firebase-plain",
+		"alt": "firebase"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg",
+		"id": "firebase-plain-wordmark",
+		"alt": "firebase"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg",
+		"id": "firefox-original",
+		"alt": "firefox"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original-wordmark.svg",
+		"id": "firefox-original-wordmark",
+		"alt": "firefox"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg",
+		"id": "firefox-plain",
+		"alt": "firefox"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain-wordmark.svg",
+		"id": "firefox-plain-wordmark",
+		"alt": "firefox"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg",
+		"id": "flask-original",
+		"alt": "flask"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg",
+		"id": "flask-original-wordmark",
+		"alt": "flask"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg",
+		"id": "flutter-original",
+		"alt": "flutter"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg",
+		"id": "flutter-plain",
+		"alt": "flutter"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundation/foundation-original.svg",
+		"id": "foundation-original",
+		"alt": "foundation"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundation/foundation-original-wordmark.svg",
+		"id": "foundation-original-wordmark",
+		"alt": "foundation"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundation/foundation-plain.svg",
+		"id": "foundation-plain",
+		"alt": "foundation"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundation/foundation-plain-wordmark.svg",
+		"id": "foundation-plain-wordmark",
+		"alt": "foundation"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg",
+		"id": "fsharp-original",
+		"alt": "fsharp"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-plain.svg",
+		"id": "fsharp-plain",
+		"alt": "fsharp"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatling/gatling-plain.svg",
+		"id": "gatling-plain",
+		"alt": "gatling"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatling/gatling-plain-wordmark.svg",
+		"id": "gatling-plain-wordmark",
+		"alt": "gatling"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg",
+		"id": "gatsby-plain",
+		"alt": "gatsby"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg",
+		"id": "gatsby-original",
+		"alt": "gatsby"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original-wordmark.svg",
+		"id": "gatsby-original-wordmark",
+		"alt": "gatsby"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain-wordmark.svg",
+		"id": "gatsby-plain-wordmark",
+		"alt": "gatsby"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg",
+		"id": "gcc-original",
+		"alt": "gcc"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-plain.svg",
+		"id": "gcc-plain",
+		"alt": "gcc"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg",
+		"id": "gimp-original",
+		"alt": "gimp"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg",
+		"id": "gimp-original-wordmark",
+		"alt": "gimp"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain.svg",
+		"id": "gimp-plain",
+		"alt": "gimp"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain-wordmark.svg",
+		"id": "gimp-plain-wordmark",
+		"alt": "gimp"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+		"id": "git-original",
+		"alt": "git"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg",
+		"id": "git-original-wordmark",
+		"alt": "git"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg",
+		"id": "git-plain",
+		"alt": "git"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg",
+		"id": "git-plain-wordmark",
+		"alt": "git"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+		"id": "github-original",
+		"alt": "github"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg",
+		"id": "github-original-wordmark",
+		"alt": "github"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg",
+		"id": "gitlab-original",
+		"alt": "gitlab"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg",
+		"id": "gitlab-original-wordmark",
+		"alt": "gitlab"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg",
+		"id": "gitlab-plain",
+		"alt": "gitlab"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg",
+		"id": "gitlab-plain-wordmark",
+		"alt": "gitlab"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitter/gitter-plain.svg",
+		"id": "gitter-plain",
+		"alt": "gitter"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitter/gitter-plain-wordmark.svg",
+		"id": "gitter-plain-wordmark",
+		"alt": "gitter"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg",
+		"id": "go-original",
+		"alt": "go"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg",
+		"id": "go-original-wordmark",
+		"alt": "go"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-plain.svg",
+		"id": "go-plain",
+		"alt": "go"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-line.svg",
+		"id": "go-line",
+		"alt": "go"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg",
+		"id": "google-original",
+		"alt": "google"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg",
+		"id": "google-original-wordmark",
+		"alt": "google"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg",
+		"id": "google-plain",
+		"alt": "google"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain-wordmark.svg",
+		"id": "google-plain-wordmark",
+		"alt": "google"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg",
+		"id": "googlecloud-original",
+		"alt": "googlecloud"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg",
+		"id": "googlecloud-original-wordmark",
+		"alt": "googlecloud"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg",
+		"id": "googlecloud-plain",
+		"alt": "googlecloud"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain-wordmark.svg",
+		"id": "googlecloud-plain-wordmark",
+		"alt": "googlecloud"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg",
+		"id": "gradle-plain",
+		"alt": "gradle"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg",
+		"id": "gradle-plain-wordmark",
+		"alt": "gradle"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grails/grails-original.svg",
+		"id": "grails-original",
+		"alt": "grails"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grails/grails-plain.svg",
+		"id": "grails-plain",
+		"alt": "grails"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg",
+		"id": "graphql-plain",
+		"alt": "graphql"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg",
+		"id": "graphql-plain-wordmark",
+		"alt": "graphql"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg",
+		"id": "groovy-original",
+		"alt": "groovy"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-plain.svg",
+		"id": "groovy-plain",
+		"alt": "groovy"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg",
+		"id": "grunt-original",
+		"alt": "grunt"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original-wordmark.svg",
+		"id": "grunt-original-wordmark",
+		"alt": "grunt"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-plain.svg",
+		"id": "grunt-plain",
+		"alt": "grunt"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-plain-wordmark.svg",
+		"id": "grunt-plain-wordmark",
+		"alt": "grunt"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-line.svg",
+		"id": "grunt-line",
+		"alt": "grunt"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-line-wordmark.svg",
+		"id": "grunt-line-wordmark",
+		"alt": "grunt"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg",
+		"id": "gulp-plain",
+		"alt": "gulp"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg",
+		"id": "godot-original",
+		"alt": "godot"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg",
+		"id": "godot-original-wordmark",
+		"alt": "godot"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-plain.svg",
+		"id": "godot-plain",
+		"alt": "godot"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-plain-wordmark.svg",
+		"id": "godot-plain-wordmark",
+		"alt": "godot"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg",
+		"id": "haskell-original",
+		"alt": "haskell"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original-wordmark.svg",
+		"id": "haskell-original-wordmark",
+		"alt": "haskell"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-plain.svg",
+		"id": "haskell-plain",
+		"alt": "haskell"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-plain-wordmark.svg",
+		"id": "haskell-plain-wordmark",
+		"alt": "haskell"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg",
+		"id": "handlebars-original",
+		"alt": "handlebars"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg",
+		"id": "handlebars-original-wordmark",
+		"alt": "handlebars"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg",
+		"id": "haxe-original",
+		"alt": "haxe"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-plain.svg",
+		"id": "haxe-plain",
+		"alt": "haxe"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg",
+		"id": "heroku-original",
+		"alt": "heroku"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg",
+		"id": "heroku-original-wordmark",
+		"alt": "heroku"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg",
+		"id": "heroku-plain",
+		"alt": "heroku"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg",
+		"id": "heroku-plain-wordmark",
+		"alt": "heroku"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+		"id": "html5-original",
+		"alt": "html5"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg",
+		"id": "html5-original-wordmark",
+		"alt": "html5"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg",
+		"id": "html5-plain",
+		"alt": "html5"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg",
+		"id": "html5-plain-wordmark",
+		"alt": "html5"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg",
+		"id": "ie10-original",
+		"alt": "ie10"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg",
+		"id": "illustrator-plain",
+		"alt": "illustrator"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg",
+		"id": "illustrator-line",
+		"alt": "illustrator"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg",
+		"id": "inkscape-original",
+		"alt": "inkscape"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg",
+		"id": "inkscape-original-wordmark",
+		"alt": "inkscape"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-plain.svg",
+		"id": "inkscape-plain",
+		"alt": "inkscape"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-plain-wordmark.svg",
+		"id": "inkscape-plain-wordmark",
+		"alt": "inkscape"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg",
+		"id": "intellij-original",
+		"alt": "intellij"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg",
+		"id": "intellij-original-wordmark",
+		"alt": "intellij"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg",
+		"id": "intellij-plain",
+		"alt": "intellij"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg",
+		"id": "intellij-plain-wordmark",
+		"alt": "intellij"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg",
+		"id": "ionic-original",
+		"alt": "ionic"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg",
+		"id": "ionic-original-wordmark",
+		"alt": "ionic"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg",
+		"id": "jamstack-original",
+		"alt": "jamstack"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original-wordmark.svg",
+		"id": "jamstack-original-wordmark",
+		"alt": "jamstack"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-plain-wordmark.svg",
+		"id": "jamstack-plain-wordmark",
+		"alt": "jamstack"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg",
+		"id": "jasmine-plain",
+		"alt": "jasmine"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg",
+		"id": "jasmine-plain-wordmark",
+		"alt": "jasmine"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+		"id": "java-original",
+		"alt": "java"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg",
+		"id": "java-original-wordmark",
+		"alt": "java"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg",
+		"id": "java-plain",
+		"alt": "java"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg",
+		"id": "java-plain-wordmark",
+		"alt": "java"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+		"id": "javascript-original",
+		"alt": "javascript"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg",
+		"id": "javascript-plain",
+		"alt": "javascript"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jeet/jeet-original.svg",
+		"id": "jeet-original",
+		"alt": "jeet"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jeet/jeet-original-wordmark.svg",
+		"id": "jeet-original-wordmark",
+		"alt": "jeet"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jeet/jeet-plain.svg",
+		"id": "jeet-plain",
+		"alt": "jeet"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jeet/jeet-plain-wordmark.svg",
+		"id": "jeet-plain-wordmark",
+		"alt": "jeet"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg",
+		"id": "jest-plain",
+		"alt": "jest"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg",
+		"id": "jenkins-line",
+		"alt": "jenkins"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg",
+		"id": "jenkins-original",
+		"alt": "jenkins"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg",
+		"id": "jenkins-plain",
+		"alt": "jenkins"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg",
+		"id": "jetbrains-original",
+		"alt": "jetbrains"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-plain.svg",
+		"id": "jetbrains-plain",
+		"alt": "jetbrains"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg",
+		"id": "jira-original",
+		"alt": "jira"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg",
+		"id": "jira-original-wordmark",
+		"alt": "jira"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg",
+		"id": "jira-plain",
+		"alt": "jira"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg",
+		"id": "jira-plain-wordmark",
+		"alt": "jira"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg",
+		"id": "jquery-original",
+		"alt": "jquery"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg",
+		"id": "jquery-original-wordmark",
+		"alt": "jquery"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg",
+		"id": "jquery-plain",
+		"alt": "jquery"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg",
+		"id": "jquery-plain-wordmark",
+		"alt": "jquery"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg",
+		"id": "julia-original",
+		"alt": "julia"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg",
+		"id": "julia-original-wordmark",
+		"alt": "julia"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-plain.svg",
+		"id": "julia-plain",
+		"alt": "julia"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-plain-wordmark.svg",
+		"id": "julia-plain-wordmark",
+		"alt": "julia"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg",
+		"id": "jupyter-original",
+		"alt": "jupyter"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg",
+		"id": "jupyter-original-wordmark",
+		"alt": "jupyter"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain.svg",
+		"id": "jupyter-plain",
+		"alt": "jupyter"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg",
+		"id": "jupyter-plain-wordmark",
+		"alt": "jupyter"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg",
+		"id": "karma-original",
+		"alt": "karma"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-plain.svg",
+		"id": "karma-plain",
+		"alt": "karma"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg",
+		"id": "kotlin-original",
+		"alt": "kotlin"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg",
+		"id": "kotlin-original-wordmark",
+		"alt": "kotlin"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg",
+		"id": "kotlin-plain",
+		"alt": "kotlin"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg",
+		"id": "kotlin-plain-wordmark",
+		"alt": "kotlin"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knockout/knockout-plain-wordmark.svg",
+		"id": "knockout-plain-wordmark",
+		"alt": "knockout"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-original.svg",
+		"id": "krakenjs-original",
+		"alt": "krakenjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-original-wordmark.svg",
+		"id": "krakenjs-original-wordmark",
+		"alt": "krakenjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-plain.svg",
+		"id": "krakenjs-plain",
+		"alt": "krakenjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-plain-wordmark.svg",
+		"id": "krakenjs-plain-wordmark",
+		"alt": "krakenjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg",
+		"id": "kubernetes-plain",
+		"alt": "kubernetes"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg",
+		"id": "kubernetes-plain-wordmark",
+		"alt": "kubernetes"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg",
+		"id": "labview-original",
+		"alt": "labview"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg",
+		"id": "labview-original-wordmark",
+		"alt": "labview"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-plain.svg",
+		"id": "labview-plain",
+		"alt": "labview"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-plain-wordmark.svg",
+		"id": "labview-plain-wordmark",
+		"alt": "labview"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg",
+		"id": "laravel-plain",
+		"alt": "laravel"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg",
+		"id": "laravel-plain-wordmark",
+		"alt": "laravel"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg",
+		"id": "less-plain-wordmark",
+		"alt": "less"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg",
+		"id": "linkedin-original",
+		"alt": "linkedin"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg",
+		"id": "linkedin-original-wordmark",
+		"alt": "linkedin"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg",
+		"id": "linkedin-plain",
+		"alt": "linkedin"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg",
+		"id": "linkedin-plain-wordmark",
+		"alt": "linkedin"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg",
+		"id": "lua-original",
+		"alt": "lua"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg",
+		"id": "lua-original-wordmark",
+		"alt": "lua"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg",
+		"id": "lua-plain",
+		"alt": "lua"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg",
+		"id": "lua-plain-wordmark",
+		"alt": "lua"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
+		"id": "linux-original",
+		"alt": "linux"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg",
+		"id": "linux-plain",
+		"alt": "linux"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg",
+		"id": "materialui-original",
+		"alt": "materialui"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg",
+		"id": "materialui-plain",
+		"alt": "materialui"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg",
+		"id": "matlab-original",
+		"alt": "matlab"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-plain.svg",
+		"id": "matlab-plain",
+		"alt": "matlab"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-line.svg",
+		"id": "matlab-line",
+		"alt": "matlab"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg",
+		"id": "magento-original",
+		"alt": "magento"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original-wordmark.svg",
+		"id": "magento-original-wordmark",
+		"alt": "magento"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-line.svg",
+		"id": "magento-line",
+		"alt": "magento"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg",
+		"id": "markdown-original",
+		"alt": "markdown"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg",
+		"id": "meteor-original",
+		"alt": "meteor"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original-wordmark.svg",
+		"id": "meteor-original-wordmark",
+		"alt": "meteor"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-plain.svg",
+		"id": "meteor-plain",
+		"alt": "meteor"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-plain-wordmark.svg",
+		"id": "meteor-plain-wordmark",
+		"alt": "meteor"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg",
+		"id": "minitab-original",
+		"alt": "minitab"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-plain.svg",
+		"id": "minitab-plain",
+		"alt": "minitab"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg",
+		"id": "mocha-plain",
+		"alt": "mocha"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/modx/modx-original.svg",
+		"id": "modx-original",
+		"alt": "modx"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/modx/modx-original-wordmark.svg",
+		"id": "modx-original-wordmark",
+		"alt": "modx"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/modx/modx-plain.svg",
+		"id": "modx-plain",
+		"alt": "modx"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/modx/modx-plain-wordmark.svg",
+		"id": "modx-plain-wordmark",
+		"alt": "modx"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+		"id": "mongodb-original",
+		"alt": "mongodb"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg",
+		"id": "mongodb-original-wordmark",
+		"alt": "mongodb"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg",
+		"id": "mongodb-plain",
+		"alt": "mongodb"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg",
+		"id": "mongodb-plain-wordmark",
+		"alt": "mongodb"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg",
+		"id": "moodle-original",
+		"alt": "moodle"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original-wordmark.svg",
+		"id": "moodle-original-wordmark",
+		"alt": "moodle"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-plain.svg",
+		"id": "moodle-plain",
+		"alt": "moodle"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-plain-wordmark.svg",
+		"id": "moodle-plain-wordmark",
+		"alt": "moodle"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg",
+		"id": "msdos-original",
+		"alt": "msdos"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-plain.svg",
+		"id": "msdos-plain",
+		"alt": "msdos"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-line.svg",
+		"id": "msdos-line",
+		"alt": "msdos"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+		"id": "mysql-original",
+		"alt": "mysql"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg",
+		"id": "mysql-original-wordmark",
+		"alt": "mysql"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg",
+		"id": "mysql-plain",
+		"alt": "mysql"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg",
+		"id": "mysql-plain-wordmark",
+		"alt": "mysql"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg",
+		"id": "neo4j-original",
+		"alt": "neo4j"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg",
+		"id": "neo4j-original-wordmark",
+		"alt": "neo4j"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-plain.svg",
+		"id": "neo4j-plain",
+		"alt": "neo4j"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-plain-wordmark.svg",
+		"id": "neo4j-plain-wordmark",
+		"alt": "neo4j"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg",
+		"id": "nestjs-plain",
+		"alt": "nestjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg",
+		"id": "nestjs-plain-wordmark",
+		"alt": "nestjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+		"id": "nextjs-original",
+		"alt": "nextjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg",
+		"id": "nextjs-line",
+		"alt": "nextjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg",
+		"id": "nextjs-original-wordmark",
+		"alt": "nextjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg",
+		"id": "nginx-original",
+		"alt": "nginx"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg",
+		"id": "nixos-original",
+		"alt": "nixos"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original-wordmark.svg",
+		"id": "nixos-original-wordmark",
+		"alt": "nixos"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-plain.svg",
+		"id": "nixos-plain",
+		"alt": "nixos"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-plain-wordmark.svg",
+		"id": "nixos-plain-wordmark",
+		"alt": "nixos"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+		"id": "nodejs-original",
+		"alt": "nodejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg",
+		"id": "nodejs-original-wordmark",
+		"alt": "nodejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg",
+		"id": "nodejs-plain",
+		"alt": "nodejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg",
+		"id": "nodejs-plain-wordmark",
+		"alt": "nodejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original.svg",
+		"id": "nodewebkit-original",
+		"alt": "nodewebkit"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original-wordmark.svg",
+		"id": "nodewebkit-original-wordmark",
+		"alt": "nodewebkit"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-plain.svg",
+		"id": "nodewebkit-plain",
+		"alt": "nodewebkit"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-plain-wordmark.svg",
+		"id": "nodewebkit-plain-wordmark",
+		"alt": "nodewebkit"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-line.svg",
+		"id": "nodewebkit-line",
+		"alt": "nodewebkit"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-line-wordmark.svg",
+		"id": "nodewebkit-line-wordmark",
+		"alt": "nodewebkit"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg",
+		"id": "npm-original-wordmark",
+		"alt": "npm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg",
+		"id": "numpy-original",
+		"alt": "numpy"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg",
+		"id": "numpy-original-wordmark",
+		"alt": "numpy"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg",
+		"id": "nuxtjs-original",
+		"alt": "nuxtjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg",
+		"id": "nuxtjs-original-wordmark",
+		"alt": "nuxtjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-plain.svg",
+		"id": "nuxtjs-plain",
+		"alt": "nuxtjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-plain-wordmark.svg",
+		"id": "nuxtjs-plain-wordmark",
+		"alt": "nuxtjs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg",
+		"id": "objectivec-plain",
+		"alt": "objectivec"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg",
+		"id": "opera-original",
+		"alt": "opera"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original-wordmark.svg",
+		"id": "opera-original-wordmark",
+		"alt": "opera"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-plain.svg",
+		"id": "opera-plain",
+		"alt": "opera"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-plain-wordmark.svg",
+		"id": "opera-plain-wordmark",
+		"alt": "opera"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg",
+		"id": "ocaml-original",
+		"alt": "ocaml"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original-wordmark.svg",
+		"id": "ocaml-original-wordmark",
+		"alt": "ocaml"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-plain.svg",
+		"id": "ocaml-plain",
+		"alt": "ocaml"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-plain-wordmark.svg",
+		"id": "ocaml-plain-wordmark",
+		"alt": "ocaml"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg",
+		"id": "opengl-original",
+		"alt": "opengl"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg",
+		"id": "opengl-plain",
+		"alt": "opengl"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg",
+		"id": "oracle-original",
+		"alt": "oracle"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg",
+		"id": "pandas-original",
+		"alt": "pandas"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg",
+		"id": "pandas-original-wordmark",
+		"alt": "pandas"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg",
+		"id": "perl-original",
+		"alt": "perl"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-plain.svg",
+		"id": "perl-plain",
+		"alt": "perl"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg",
+		"id": "phalcon-original",
+		"alt": "phalcon"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-plain.svg",
+		"id": "phalcon-plain",
+		"alt": "phalcon"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg",
+		"id": "photoshop-plain",
+		"alt": "photoshop"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg",
+		"id": "photoshop-line",
+		"alt": "photoshop"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
+		"id": "php-original",
+		"alt": "php"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg",
+		"id": "php-plain",
+		"alt": "php"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg",
+		"id": "phpstorm-original",
+		"alt": "phpstorm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg",
+		"id": "phpstorm-original-wordmark",
+		"alt": "phpstorm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-plain.svg",
+		"id": "phpstorm-plain",
+		"alt": "phpstorm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-plain-wordmark.svg",
+		"id": "phpstorm-plain-wordmark",
+		"alt": "phpstorm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+		"id": "postgresql-original",
+		"alt": "postgresql"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg",
+		"id": "postgresql-original-wordmark",
+		"alt": "postgresql"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg",
+		"id": "postgresql-plain",
+		"alt": "postgresql"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg",
+		"id": "postgresql-plain-wordmark",
+		"alt": "postgresql"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg",
+		"id": "premierepro-plain",
+		"alt": "premierepro"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg",
+		"id": "premierepro-original",
+		"alt": "premierepro"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg",
+		"id": "processing-original",
+		"alt": "processing"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original-wordmark.svg",
+		"id": "processing-original-wordmark",
+		"alt": "processing"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-plain.svg",
+		"id": "processing-plain",
+		"alt": "processing"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-plain-wordmark.svg",
+		"id": "processing-plain-wordmark",
+		"alt": "processing"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/protractor/protractor-plain.svg",
+		"id": "protractor-plain",
+		"alt": "protractor"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/protractor/protractor-plain-wordmark.svg",
+		"id": "protractor-plain-wordmark",
+		"alt": "protractor"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg",
+		"id": "putty-original",
+		"alt": "putty"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg",
+		"id": "putty-plain",
+		"alt": "putty"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg",
+		"id": "pycharm-original",
+		"alt": "pycharm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg",
+		"id": "pycharm-original-wordmark",
+		"alt": "pycharm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg",
+		"id": "pycharm-plain",
+		"alt": "pycharm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain-wordmark.svg",
+		"id": "pycharm-plain-wordmark",
+		"alt": "pycharm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+		"id": "python-original",
+		"alt": "python"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg",
+		"id": "python-original-wordmark",
+		"alt": "python"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg",
+		"id": "python-plain",
+		"alt": "python"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg",
+		"id": "python-plain-wordmark",
+		"alt": "python"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg",
+		"id": "raspberrypi-original",
+		"alt": "raspberrypi"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg",
+		"id": "raspberrypi-original-wordmark",
+		"alt": "raspberrypi"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-line.svg",
+		"id": "raspberrypi-line",
+		"alt": "raspberrypi"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-line-wordmark.svg",
+		"id": "raspberrypi-line-wordmark",
+		"alt": "raspberrypi"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg",
+		"id": "phoenix-original",
+		"alt": "phoenix"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg",
+		"id": "phoenix-original-wordmark",
+		"alt": "phoenix"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-plain.svg",
+		"id": "phoenix-plain",
+		"alt": "phoenix"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-plain-wordmark.svg",
+		"id": "phoenix-plain-wordmark",
+		"alt": "phoenix"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg",
+		"id": "qt-original",
+		"alt": "qt"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg",
+		"id": "r-original",
+		"alt": "r"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg",
+		"id": "r-plain",
+		"alt": "r"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg",
+		"id": "rails-original-wordmark",
+		"alt": "rails"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg",
+		"id": "rails-plain",
+		"alt": "rails"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg",
+		"id": "rails-plain-wordmark",
+		"alt": "rails"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+		"id": "react-original",
+		"alt": "react"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg",
+		"id": "react-original-wordmark",
+		"alt": "react"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg",
+		"id": "redhat-original",
+		"alt": "redhat"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg",
+		"id": "redhat-original-wordmark",
+		"alt": "redhat"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain.svg",
+		"id": "redhat-plain",
+		"alt": "redhat"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg",
+		"id": "redhat-plain-wordmark",
+		"alt": "redhat"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg",
+		"id": "redis-original",
+		"alt": "redis"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg",
+		"id": "redis-original-wordmark",
+		"alt": "redis"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg",
+		"id": "redis-plain",
+		"alt": "redis"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg",
+		"id": "redis-plain-wordmark",
+		"alt": "redis"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
+		"id": "redux-original",
+		"alt": "redux"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rocksdb/rocksdb-plain.svg",
+		"id": "rocksdb-plain",
+		"alt": "rocksdb"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg",
+		"id": "ruby-original",
+		"alt": "ruby"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg",
+		"id": "ruby-original-wordmark",
+		"alt": "ruby"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg",
+		"id": "ruby-plain",
+		"alt": "ruby"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg",
+		"id": "ruby-plain-wordmark",
+		"alt": "ruby"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg",
+		"id": "rubymine-original",
+		"alt": "rubymine"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original-wordmark.svg",
+		"id": "rubymine-original-wordmark",
+		"alt": "rubymine"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-plain.svg",
+		"id": "rubymine-plain",
+		"alt": "rubymine"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-plain-wordmark.svg",
+		"id": "rubymine-plain-wordmark",
+		"alt": "rubymine"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg",
+		"id": "rust-plain",
+		"alt": "rust"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg",
+		"id": "safari-original",
+		"alt": "safari"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original-wordmark.svg",
+		"id": "safari-original-wordmark",
+		"alt": "safari"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-plain.svg",
+		"id": "safari-plain",
+		"alt": "safari"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-plain-wordmark.svg",
+		"id": "safari-plain-wordmark",
+		"alt": "safari"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-line-wordmark.svg",
+		"id": "safari-line-wordmark",
+		"alt": "safari"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-line.svg",
+		"id": "safari-line",
+		"alt": "safari"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg",
+		"id": "salesforce-original",
+		"alt": "salesforce"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-plain.svg",
+		"id": "salesforce-plain",
+		"alt": "salesforce"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg",
+		"id": "rstudio-original",
+		"alt": "rstudio"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg",
+		"id": "rstudio-plain",
+		"alt": "rstudio"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg",
+		"id": "sass-original",
+		"alt": "sass"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg",
+		"id": "scala-original",
+		"alt": "scala"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg",
+		"id": "scala-original-wordmark",
+		"alt": "scala"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-plain.svg",
+		"id": "scala-plain",
+		"alt": "scala"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-plain-wordmark.svg",
+		"id": "scala-plain-wordmark",
+		"alt": "scala"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg",
+		"id": "sequelize-original",
+		"alt": "sequelize"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg",
+		"id": "sequelize-original-wordmark",
+		"alt": "sequelize"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain.svg",
+		"id": "sequelize-plain",
+		"alt": "sequelize"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg",
+		"id": "sequelize-plain-wordmark",
+		"alt": "sequelize"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopware/shopware-original.svg",
+		"id": "shopware-original",
+		"alt": "shopware"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopware/shopware-original-wordmark.svg",
+		"id": "shopware-original-wordmark",
+		"alt": "shopware"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg",
+		"id": "sketch-original",
+		"alt": "sketch"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original-wordmark.svg",
+		"id": "sketch-original-wordmark",
+		"alt": "sketch"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-line.svg",
+		"id": "sketch-line",
+		"alt": "sketch"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-line-wordmark.svg",
+		"id": "sketch-line-wordmark",
+		"alt": "sketch"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg",
+		"id": "slack-original",
+		"alt": "slack"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg",
+		"id": "slack-original-wordmark",
+		"alt": "slack"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-plain.svg",
+		"id": "slack-plain",
+		"alt": "slack"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-plain-wordmark.svg",
+		"id": "slack-plain-wordmark",
+		"alt": "slack"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg",
+		"id": "socketio-original",
+		"alt": "socketio"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg",
+		"id": "socketio-original-wordmark",
+		"alt": "socketio"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg",
+		"id": "sourcetree-original",
+		"alt": "sourcetree"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg",
+		"id": "sourcetree-original-wordmark",
+		"alt": "sourcetree"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg",
+		"id": "spring-original",
+		"alt": "spring"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg",
+		"id": "spring-original-wordmark",
+		"alt": "spring"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg",
+		"id": "spring-plain",
+		"alt": "spring"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg",
+		"id": "spring-plain-wordmark",
+		"alt": "spring"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg",
+		"id": "spss-original",
+		"alt": "spss"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-plain.svg",
+		"id": "spss-plain",
+		"alt": "spss"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg",
+		"id": "sqlalchemy-original",
+		"alt": "sqlalchemy"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg",
+		"id": "sqlalchemy-original-wordmark",
+		"alt": "sqlalchemy"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-plain.svg",
+		"id": "sqlalchemy-plain",
+		"alt": "sqlalchemy"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg",
+		"id": "subversion-original",
+		"alt": "subversion"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original-wordmark.svg",
+		"id": "subversion-original-wordmark",
+		"alt": "subversion"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg",
+		"id": "microsoftsqlserver-plain",
+		"alt": "microsoftsqlserver"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg",
+		"id": "microsoftsqlserver-plain-wordmark",
+		"alt": "microsoftsqlserver"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg",
+		"id": "ssh-original",
+		"alt": "ssh"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg",
+		"id": "ssh-original-wordmark",
+		"alt": "ssh"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg",
+		"id": "stylus-original",
+		"alt": "stylus"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg",
+		"id": "svelte-original",
+		"alt": "svelte"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original-wordmark.svg",
+		"id": "svelte-original-wordmark",
+		"alt": "svelte"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-plain.svg",
+		"id": "svelte-plain",
+		"alt": "svelte"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-plain-wordmark.svg",
+		"id": "svelte-plain-wordmark",
+		"alt": "svelte"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg",
+		"id": "swift-original",
+		"alt": "swift"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg",
+		"id": "swift-original-wordmark",
+		"alt": "swift"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg",
+		"id": "swift-plain",
+		"alt": "swift"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain-wordmark.svg",
+		"id": "swift-plain-wordmark",
+		"alt": "swift"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg",
+		"id": "symfony-original",
+		"alt": "symfony"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg",
+		"id": "symfony-original-wordmark",
+		"alt": "symfony"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg",
+		"id": "storybook-original",
+		"alt": "storybook"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg",
+		"id": "storybook-original-wordmark",
+		"alt": "storybook"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-plain.svg",
+		"id": "storybook-plain",
+		"alt": "storybook"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-plain-wordmark.svg",
+		"id": "storybook-plain-wordmark",
+		"alt": "storybook"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg",
+		"id": "tailwindcss-original-wordmark",
+		"alt": "tailwindcss"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+		"id": "tailwindcss-plain",
+		"alt": "tailwindcss"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg",
+		"id": "tensorflow-original",
+		"alt": "tensorflow"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg",
+		"id": "tensorflow-original-wordmark",
+		"alt": "tensorflow"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-line.svg",
+		"id": "tensorflow-line",
+		"alt": "tensorflow"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-line-wordmark.svg",
+		"id": "tensorflow-line-wordmark",
+		"alt": "tensorflow"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg",
+		"id": "threejs-original",
+		"alt": "threejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg",
+		"id": "threejs-original-wordmark",
+		"alt": "threejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg",
+		"id": "tomcat-original",
+		"alt": "tomcat"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg",
+		"id": "tomcat-original-wordmark",
+		"alt": "tomcat"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-line.svg",
+		"id": "tomcat-line",
+		"alt": "tomcat"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-line-wordmark.svg",
+		"id": "tomcat-line-wordmark",
+		"alt": "tomcat"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg",
+		"id": "tortoisegit-original",
+		"alt": "tortoisegit"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-plain.svg",
+		"id": "tortoisegit-plain",
+		"alt": "tortoisegit"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-line.svg",
+		"id": "tortoisegit-line",
+		"alt": "tortoisegit"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/towergit/towergit-original.svg",
+		"id": "towergit-original",
+		"alt": "towergit"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/towergit/towergit-original-wordmark.svg",
+		"id": "towergit-original-wordmark",
+		"alt": "towergit"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/towergit/towergit-plain.svg",
+		"id": "towergit-plain",
+		"alt": "towergit"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/towergit/towergit-plain-wordmark.svg",
+		"id": "towergit-plain-wordmark",
+		"alt": "towergit"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg",
+		"id": "travis-plain",
+		"alt": "travis"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain-wordmark.svg",
+		"id": "travis-plain-wordmark",
+		"alt": "travis"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg",
+		"id": "thealgorithms-original",
+		"alt": "thealgorithms"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original-wordmark.svg",
+		"id": "thealgorithms-original-wordmark",
+		"alt": "thealgorithms"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-plain.svg",
+		"id": "thealgorithms-plain",
+		"alt": "thealgorithms"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-plain-wordmark.svg",
+		"id": "thealgorithms-plain-wordmark",
+		"alt": "thealgorithms"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg",
+		"id": "trello-plain",
+		"alt": "trello"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg",
+		"id": "trello-plain-wordmark",
+		"alt": "trello"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg",
+		"id": "twitter-original",
+		"alt": "twitter"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+		"id": "typescript-original",
+		"alt": "typescript"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg",
+		"id": "typescript-plain",
+		"alt": "typescript"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typo3/typo3-original.svg",
+		"id": "typo3-original",
+		"alt": "typo3"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typo3/typo3-original-wordmark.svg",
+		"id": "typo3-original-wordmark",
+		"alt": "typo3"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typo3/typo3-plain.svg",
+		"id": "typo3-plain",
+		"alt": "typo3"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typo3/typo3-plain-wordmark.svg",
+		"id": "typo3-plain-wordmark",
+		"alt": "typo3"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg",
+		"id": "ubuntu-plain",
+		"alt": "ubuntu"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg",
+		"id": "ubuntu-plain-wordmark",
+		"alt": "ubuntu"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg",
+		"id": "unity-original",
+		"alt": "unity"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg",
+		"id": "unity-original-wordmark",
+		"alt": "unity"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg",
+		"id": "unix-original",
+		"alt": "unix"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uwsgi/uwsgi-original.svg",
+		"id": "uwsgi-original",
+		"alt": "uwsgi"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uwsgi/uwsgi-plain.svg",
+		"id": "uwsgi-plain",
+		"alt": "uwsgi"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg",
+		"id": "vagrant-original",
+		"alt": "vagrant"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original-wordmark.svg",
+		"id": "vagrant-original-wordmark",
+		"alt": "vagrant"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-plain.svg",
+		"id": "vagrant-plain",
+		"alt": "vagrant"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-plain-wordmark.svg",
+		"id": "vagrant-plain-wordmark",
+		"alt": "vagrant"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg",
+		"id": "vim-original",
+		"alt": "vim"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg",
+		"id": "vim-plain",
+		"alt": "vim"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg",
+		"id": "visualstudio-plain",
+		"alt": "visualstudio"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg",
+		"id": "visualstudio-plain-wordmark",
+		"alt": "visualstudio"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
+		"id": "vuejs-original",
+		"alt": "vuejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg",
+		"id": "vuejs-original-wordmark",
+		"alt": "vuejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg",
+		"id": "vuejs-plain",
+		"alt": "vuejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg",
+		"id": "vuejs-plain-wordmark",
+		"alt": "vuejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-line.svg",
+		"id": "vuejs-line",
+		"alt": "vuejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-line-wordmark.svg",
+		"id": "vuejs-line-wordmark",
+		"alt": "vuejs"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuestorefront/vuestorefront-original.svg",
+		"id": "vuestorefront-original",
+		"alt": "vuestorefront"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuestorefront/vuestorefront-plain.svg",
+		"id": "vuestorefront-plain",
+		"alt": "vuestorefront"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
+		"id": "vscode-original",
+		"alt": "vscode"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg",
+		"id": "vscode-original-wordmark",
+		"alt": "vscode"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg",
+		"id": "vscode-plain",
+		"alt": "vscode"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg",
+		"id": "vscode-plain-wordmark",
+		"alt": "vscode"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/weblate/weblate-original.svg",
+		"id": "weblate-original",
+		"alt": "weblate"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/weblate/weblate-plain.svg",
+		"id": "weblate-plain",
+		"alt": "weblate"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/weblate/weblate-original-wordmark.svg",
+		"id": "weblate-original-wordmark",
+		"alt": "weblate"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/weblate/weblate-plain-wordmark.svg",
+		"id": "weblate-plain-wordmark",
+		"alt": "weblate"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg",
+		"id": "webpack-original",
+		"alt": "webpack"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg",
+		"id": "webpack-original-wordmark",
+		"alt": "webpack"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg",
+		"id": "webpack-plain",
+		"alt": "webpack"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg",
+		"id": "webpack-plain-wordmark",
+		"alt": "webpack"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg",
+		"id": "webstorm-original",
+		"alt": "webstorm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original-wordmark.svg",
+		"id": "webstorm-original-wordmark",
+		"alt": "webstorm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-plain.svg",
+		"id": "webstorm-plain",
+		"alt": "webstorm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-plain-wordmark.svg",
+		"id": "webstorm-plain-wordmark",
+		"alt": "webstorm"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg",
+		"id": "windows8-original",
+		"alt": "windows8"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original-wordmark.svg",
+		"id": "windows8-original-wordmark",
+		"alt": "windows8"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg",
+		"id": "woocommerce-original",
+		"alt": "woocommerce"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain.svg",
+		"id": "woocommerce-plain",
+		"alt": "woocommerce"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original-wordmark.svg",
+		"id": "woocommerce-original-wordmark",
+		"alt": "woocommerce"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain-wordmark.svg",
+		"id": "woocommerce-plain-wordmark",
+		"alt": "woocommerce"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg",
+		"id": "wordpress-original",
+		"alt": "wordpress"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg",
+		"id": "wordpress-plain",
+		"alt": "wordpress"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg",
+		"id": "wordpress-plain-wordmark",
+		"alt": "wordpress"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg",
+		"id": "xd-plain",
+		"alt": "xd"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg",
+		"id": "xd-line",
+		"alt": "xd"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg",
+		"id": "yarn-original",
+		"alt": "yarn"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg",
+		"id": "yarn-original-wordmark",
+		"alt": "yarn"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg",
+		"id": "yii-original",
+		"alt": "yii"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original-wordmark.svg",
+		"id": "yii-original-wordmark",
+		"alt": "yii"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-plain.svg",
+		"id": "yii-plain",
+		"alt": "yii"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-plain-wordmark.svg",
+		"id": "yii-plain-wordmark",
+		"alt": "yii"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yunohost/yunohost-original.svg",
+		"id": "yunohost-original",
+		"alt": "yunohost"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yunohost/yunohost-plain.svg",
+		"id": "yunohost-plain",
+		"alt": "yunohost"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain.svg",
+		"id": "zend-plain",
+		"alt": "zend"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain-wordmark.svg",
+		"id": "zend-plain-wordmark",
+		"alt": "zend"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg",
+		"id": "zig-original",
+		"alt": "zig"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original-wordmark.svg",
+		"id": "zig-original-wordmark",
+		"alt": "zig"
+	},
+	{
+		"loc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-plain-wordmark.svg",
+		"id": "zig-plain-wordmark",
+		"alt": "zig"
+	}
+]
